@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+build/
+dist/
+
+# tool output and local models
+out/
+*.wav
+*.webm
+*.bin
+.env
